@@ -1,0 +1,2 @@
+# goping
+ping server
